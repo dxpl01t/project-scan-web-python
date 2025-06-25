@@ -1,0 +1,613 @@
+Iniciando ejecucion de main.py... 
+C:\Users\jdiegochg10\Desktop\project-scan-web-python\main.py:723: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value '2025-12-14' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+  df.iloc[matches, fecha_venc_col] = pdf_info['expiry_date']
+
+Usando directorio de descargas: downloads
+Ruta completa: C:\Users\jdiegochg10\Desktop\project-scan-web-python\downloads
+
+=== LEYENDO ARCHIVO EXCEL ===
+Archivo Excel encontrado: SEGUIMIENTO_ALMACEN.xlsx
+Leyendo hoja: SIGNIA Y PRODIS
+Total de registros a buscar: 185
+Filtros aplicados:
+- Año: 2025
+- Sin COA
+- Almacén diferente a PRODIS
+
+Se buscarán 185 códigos
+
+Directorio de descargas configurado en: C:\Users\jdiegochg10\Desktop\project-scan-web-python\downloads
+Usando carpeta: downloads
+
+=== INICIANDO SESIÓN EN MINDRAY ===
+Accediendo a https://service.mindray.com/SSO/Login/Signin?app=coa
+Buscando campo de usuario...
+Usuario ingresado
+Buscando campo de contraseña...
+Contraseña ingresada
+Buscando botón de inicio de sesión...
+Haciendo clic en el botón de inicio de sesión...
+Inicio de sesión exitoso
+
+Cambiando idioma a inglés...
+Idioma cambiado a inglés
+
+Iniciando proceso de búsqueda...
+
+Iniciando búsqueda avanzada...
+Abriendo ventana de búsqueda avanzada...
+Seleccionando pestaña de Batch Search...
+Preparando 185 códigos para búsqueda...
+Ingresando códigos en el formulario...
+Iniciando búsqueda...
+Búsqueda iniciada
+Esperando 15 segundos para que carguen 185 registros...
+
+Limpiando directorio de descargas...
+Limpieza del directorio completada
+Total de páginas encontradas: 4
+
+Procesando página 1 de 4
+Registros seleccionados en página 1: 50
+Esperando botón de descarga...
+Estado del botón de descarga:
+- Visible: True
+- Habilitado: True
+- Clases: btn green reload
+- Disabled: None
+Intentando hacer clic en el botón de descarga...
+Descargando archivos de la página 1
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga completada
+
+Procesando archivos ZIP...
+Encontrados 1 archivos ZIP
+
+Procesando: 20250606233930.zip
+Contenido del ZIP: 50 archivos
+Archivos extraídos correctamente
+Archivo ZIP eliminado: 20250606233930.zip
+
+Procesamiento de archivos ZIP completado
+Deseleccionando registros después de la descarga...
+Navegando a la siguiente página...
+
+Procesando página 2 de 4
+Registros seleccionados en página 2: 50
+Esperando botón de descarga...
+Estado del botón de descarga:
+- Visible: True
+- Habilitado: True
+- Clases: btn green reload
+- Disabled: None
+Intentando hacer clic en el botón de descarga...
+Descargando archivos de la página 2
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga completada
+
+Procesando archivos ZIP...
+Encontrados 1 archivos ZIP
+
+Procesando: 20250606234102.zip
+Contenido del ZIP: 50 archivos
+Archivos extraídos correctamente
+Archivo ZIP eliminado: 20250606234102.zip
+
+Procesamiento de archivos ZIP completado
+Deseleccionando registros después de la descarga...
+Navegando a la siguiente página...
+
+Procesando página 3 de 4
+Registros seleccionados en página 3: 50
+Esperando botón de descarga...
+Estado del botón de descarga:
+- Visible: True
+- Habilitado: True
+- Clases: btn green reload
+- Disabled: None
+Intentando hacer clic en el botón de descarga...
+Descargando archivos de la página 3
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga en progreso...
+Descarga completada
+
+Procesando archivos ZIP...
+Encontrados 1 archivos ZIP
+
+Procesando: 20250606234235.zip
+Contenido del ZIP: 50 archivos
+Archivos extraídos correctamente
+Archivo ZIP eliminado: 20250606234235.zip
+
+Procesamiento de archivos ZIP completado
+Deseleccionando registros después de la descarga...
+Navegando a la siguiente página...
+
+Procesando página 4 de 4
+Registros seleccionados en página 4: 4
+Esperando botón de descarga...
+Estado del botón de descarga:
+- Visible: True
+- Habilitado: True
+- Clases: btn green reload
+- Disabled: None
+Intentando hacer clic en el botón de descarga...
+Descargando archivos de la página 4
+Descarga en progreso...
+Descarga en progreso...
+Descarga completada
+
+Procesando archivos ZIP...
+Encontrados 1 archivos ZIP
+
+Procesando: 20250606234410.zip
+Contenido del ZIP: 4 archivos
+Archivos extraídos correctamente
+Archivo ZIP eliminado: 20250606234410.zip
+
+Procesamiento de archivos ZIP completado
+Deseleccionando registros después de la descarga...
+
+Proceso de descarga completado
+
+Descarga de archivos completada. Cerrando navegador...
+
+Procesando todos los archivos ZIP descargados...
+
+Procesando archivos ZIP...
+No se encontraron archivos ZIP para procesar
+
+Procesando PDFs y actualizando Excel...
+
+Actualizando Excel con información de los PDFs...
+Leyendo archivo Excel original...
+Usando hoja: SIGNIA Y PRODIS
+
+Columnas en el Excel:
+Índice 0: Unnamed: 0
+Índice 1: FECHA REPORTE DE INGRESO 
+Índice 2: FABRICANTE
+Índice 3: FACTURA
+Índice 4: LINEA
+Índice 5: CÓDIGO
+Índice 6: DESCRIPCIÓN
+Índice 7: LOTE
+Índice 8: Columna3
+Índice 9: Columna4
+Índice 10: VENCIMIENTO
+Índice 11: FECHA VENC PDF
+Índice 12: COA
+Índice 13: CANT. EN  FACTURA
+Índice 14: CANTIDAD INGRESADA
+Índice 15: DIFERENCIA
+Índice 16: FECHA INGRESO ALMACÉN 
+Índice 17: N° DATALOGGER
+Índice 18: OT
+Índice 19: CATEGORIA
+Índice 20: N° Reg. Santario
+Índice 21: N° C.R.S
+Índice 22:  GRABADO
+Índice 23: FECHA DE ENVIO DE OT
+Índice 24: FECHA DE ENTREGA DE OT
+Índice 25: CUARENTENA
+Índice 26: LIBERACION  CALIDAD
+Índice 27: TIEMPO DE LIBERACIÓN CON RRSS (CALENDARIO)
+Índice 28: TIEMPO DE LIBERACION OFICIO (CALENDARIO)
+Índice 29: TIEMPO DE LIBERACIÓN CON RRSS 
+Índice 30: TIEMPO DE LIBERACION OFICIO
+Índice 31: FORMATO 48
+Índice 32: ANALISIS ORGANOLEPTICO 
+Índice 33: ALMACEN 
+Índice 34: COMENTARIOS 
+Índice 35: Columna1
+Índice 36: Columna2
+Usando columna F (índice 5) para código
+Usando columna H (índice 7) para lote
+Usando columna L (índice 11) para fecha de vencimiento
+No se pudo extraer toda la información del PDF: C:\Users\jdiegochg10\Desktop\project-scan-web-python\downloads\20250415 105-025539-00.pdf
+Actualizado: 105-004283-00 2024050111 con fecha 2025-12-14
+Actualizado: 105-000822-00 148325008 con fecha 2026-10-21
+Actualizado: 105-001597-00 148325003 con fecha 2026-08-23
+Actualizado: 105-000855-00 140325001 con fecha 2026-07-13
+Actualizado: 105-004593-00 140325002 con fecha 2026-08-24
+Actualizado: 105-000853-00 140125001 con fecha 2026-07-12
+Actualizado: 105-004591-00 140125005 con fecha 2026-09-03
+Actualizado: 105-004302-00 2024080111 con fecha 2026-04-20
+Actualizado: 105-004233-00 2024070131 con fecha 2026-05-13
+Actualizado: 105-005183-00 2024080111 con fecha 2026-04-27
+Actualizado: 105-005184-00 2024120111 con fecha 2026-07-20
+Actualizado: 105-004299-00 2024090111 con fecha 2026-05-10
+Actualizado: 105-004230-00 2024090111 con fecha 2026-06-05
+Actualizado: 105-005936-00 2025030111 con fecha 2026-04-02
+Actualizado: 105-005923-00 2025030111 con fecha 2026-04-11
+Actualizado: 105-005672-00 2024120113 con fecha 2026-03-18
+Actualizado: 105-007673-00 146925003 con fecha 2026-08-17
+Actualizado: 105-007675-00 146925001 con fecha 2026-04-23
+Actualizado: 105-004650-00 059225002 con fecha 2026-08-09
+Actualizado: 105-004650-00 059225004 con fecha 2026-08-09
+Actualizado: 105-000854-00 140225002 con fecha 2026-09-02
+Actualizado: 105-004592-00 140225002 con fecha 2026-09-02
+Actualizado: 105-005931-00 2024100111 con fecha 2026-05-26
+Actualizado: 105-000851-00 147525002 con fecha 2026-09-26
+Actualizado: 105-000890-00 147525001 con fecha 2026-07-17
+Actualizado: 105-001626-00 147525001 con fecha 2026-07-17
+Actualizado: 105-000850-00 147425005 con fecha 2026-09-25
+Actualizado: 105-000889-00 147425002 con fecha 2026-07-16
+Actualizado: 105-001625-00 147425005 con fecha 2026-09-25
+Actualizado: 105-001614-00 143925002 con fecha 2027-02-18
+Actualizado: 105-004617-00 143925002 con fecha 2027-02-18
+Actualizado: 105-000840-00 144025003 con fecha 2026-08-25
+Actualizado: 105-004604-00 144024007 con fecha 2026-03-06
+Actualizado: 105-004285-00 2024100111 con fecha 2026-06-02
+Actualizado: 105-004286-00 2024070111 con fecha 2026-02-14
+Actualizado: 105-000825-00 142225003 con fecha 2027-04-16
+Actualizado: 105-001600-00 142224017 con fecha 2026-09-18
+Actualizado: 105-004282-00 2025020111 con fecha 2026-06-04
+Actualizado: 105-001132-00 151425004 con fecha 2026-09-30
+Actualizado: 105-005913-00 2025020101 con fecha 2026-09-23
+Actualizado: 105-000870-00 142625001 con fecha 2026-04-07
+Actualizado: 105-004601-00 142625003 con fecha 2026-05-26
+Actualizado: 105-004616-00 142625003 con fecha 2026-05-26
+Actualizado: 105-000869-00 142525002 con fecha 2026-08-07
+Actualizado: 105-000869-00 142525003 con fecha 2026-08-31
+Actualizado: 105-004600-00 142525003 con fecha 2026-08-31
+Actualizado: 105-004615-00 142525003 con fecha 2026-08-31
+Actualizado: 105-005942-00 2025030101 con fecha 2026-10-10
+Actualizado: 105-005941-00 2025030101 con fecha 2026-10-10
+Actualizado: 105-000868-00 141125009 con fecha 2026-10-14
+Actualizado: 105-004612-00 141125006 con fecha 2026-09-07
+Actualizado: 105-004614-00 141125009 con fecha 2026-10-14
+Actualizado: 105-000841-00 148925002 con fecha 2026-04-09
+Actualizado: 105-000880-00 148924021 con fecha 2026-01-24
+Actualizado: 105-004605-00 148925003 con fecha 2026-04-09
+Actualizado: 105-004605-00 148925004 con fecha 2026-04-09
+Actualizado: 105-004498-00 045725003 con fecha 2026-05-17
+Actualizado: 105-009141-00 2025010111 con fecha 2026-02-27
+Actualizado: 105-004225-00 2024080111 con fecha 2026-04-23
+Actualizado: 105-004226-00 2024100111 con fecha 2026-05-12
+Actualizado: 105-026689-00 2025022651 con fecha 2027-02-25
+Actualizado: 105-004289-00 2024120111 con fecha 2026-07-13
+Actualizado: 105-004220-00 2025010111 con fecha 2026-09-27
+Actualizado: 105-001583-00 145325003 con fecha 2026-06-08
+Actualizado: 105-008551-00 2025040111 con fecha 2026-04-29
+Actualizado: 105-008683-00 2025010111 con fecha 2026-03-17
+Actualizado: 105-004222-00 2024110111 con fecha 2026-07-02
+Actualizado: 105-000888-00 141525001 con fecha 2026-07-06
+Actualizado: 105-001624-00 141525004 con fecha 2026-10-15
+Actualizado: 105-000871-00 141424017 con fecha 2026-12-22
+Actualizado: 105-004609-00 141424005 con fecha 2026-03-24
+Actualizado: 105-002140-00 052425003 con fecha 2026-08-26
+Actualizado: 105-002138-00 052525002 con fecha 2026-08-26
+Actualizado: 105-005181-00 2025020111 con fecha 2026-09-24
+Actualizado: 105-005182-00 2025020111 con fecha 2026-09-24
+Actualizado: 105-004229-00 2024090141 con fecha 2026-06-13
+Actualizado: 105-004290-00 2024120111 con fecha 2026-01-21
+Actualizado: 105-000835-00 142125006 con fecha 2027-03-18
+Actualizado: 105-000874-00 142125003 con fecha 2027-02-26
+Actualizado: 105-004610-00 142125003 con fecha 2027-02-26
+Actualizado: 105-004303-00 2024070111 con fecha 2026-03-01
+Actualizado: 105-004234-00 2024080122 con fecha 2026-05-19
+Actualizado: 105-004234-00 2025010111 con fecha 2026-11-05
+Actualizado: 105-004618-00 148824005 con fecha 2026-08-20
+Actualizado: 105-001619-00 144324006 con fecha 2026-12-10
+Actualizado: 105-004619-00 144324005 con fecha 2026-09-20
+Actualizado: 105-000843-00 144224009 con fecha 2026-09-23
+Actualizado: 105-005944-00 2025020111 con fecha 2026-03-09
+Actualizado: 105-000818-00 142725001 con fecha 2027-01-07
+Actualizado: 105-000857-00 142724008 con fecha 2026-06-05
+Actualizado: 105-004595-00 142725001 con fecha 2027-01-07
+Actualizado: 105-000836-00 142025004 con fecha 2027-03-04
+Actualizado: 105-000875-00 142024012 con fecha 2026-07-03
+Actualizado: 105-004611-00 142024021 con fecha 2026-10-25
+Actualizado: 105-004292-00 2025040111 con fecha 2026-10-27
+Actualizado: 105-001541-00 044825002 con fecha 2026-04-30
+Actualizado: 105-012288-00 2025021951 con fecha 2027-02-18
+Actualizado: 105-012292-00 2025021951 con fecha 2027-02-18
+Actualizado: 105-002316-00 053125004 con fecha 2026-10-13
+Actualizado: 105-002242-00 046024018 con fecha 2026-06-04
+Actualizado: 105-002242-00 046025004 con fecha 2026-09-30
+Actualizado: 105-002243-00 046025004 con fecha 2026-09-30
+Actualizado: 105-000834-00 148225001 con fecha 2026-08-19
+Actualizado: 105-001609-00 148224016 con fecha 2026-06-23
+Actualizado: 105-009120-00 059425004 con fecha 2027-03-31
+Actualizado: 105-009120-00 059425005 con fecha 2027-03-31
+Actualizado: 105-010238-00 2025010111 con fecha 2026-08-05
+Actualizado: 105-010228-00 2025040111 con fecha 2026-10-23
+Actualizado: 105-010219-00 2025030111 con fecha 2026-10-09
+Actualizado: 105-004293-00 2024120111 con fecha 2026-02-09
+Actualizado: 105-004224-00 2024080112 con fecha 2026-04-25
+Actualizado: 105-008553-00 2025030111 con fecha 2026-03-20
+Actualizado: 105-000833-00 142425001 con fecha 2026-07-09
+Actualizado: 105-001608-00 142424007 con fecha 2026-05-21
+Actualizado: 105-004634-00 147025002 con fecha 2026-07-13
+Actualizado: 105-007676-00 147025001 con fecha 2026-02-20
+Actualizado: 105-004276-00 2025030111 con fecha 2026-04-14
+Actualizado: 105-004288-00 2024050111 con fecha 2025-12-13
+Actualizado: 105-004219-00 2025010112 con fecha 2026-09-05
+Actualizado: 105-004279-00 2024100111 con fecha 2026-06-19
+Actualizado: 105-004279-00 2024100111 con fecha 2026-06-19
+Actualizado: 105-004280-00 2024060111 con fecha 2026-01-16
+Actualizado: 105-001603-00 143225004 con fecha 2026-03-05
+Actualizado: 105-000820-00 141625005 con fecha 2026-09-23
+Actualizado: 105-000859-00 141625006 con fecha 2026-10-21
+Actualizado: 105-001595-00 141625003 con fecha 2026-09-07
+Actualizado: 105-000821-00 141725003 con fecha 2027-02-16
+Actualizado: 105-000860-00 141724025 con fecha 2026-11-27
+Actualizado: 105-001596-00 141725002 con fecha 2027-01-15
+Actualizado: 105-005910-00 2025010101 con fecha 2026-09-12
+Actualizado: 105-009193-00 060525005 con fecha 2026-09-30
+Actualizado: 105-009168-00 147925002 con fecha 2026-05-24
+Actualizado: 105-009169-00 147925005 con fecha 2026-07-09
+Actualizado: 105-009170-00 147925001 con fecha 2026-05-24
+Actualizado: 105-000823-00 140825002 con fecha 2026-09-30
+Actualizado: 105-000862-00 140825001 con fecha 2026-08-17
+Actualizado: 105-000862-00 140825002 con fecha 2026-09-30
+Actualizado: 105-001598-00 140825002 con fecha 2026-09-30
+Actualizado: 105-002247-00 046225004 con fecha 2027-03-09
+Actualizado: 105-000887-00 141225006 con fecha 2026-10-27
+Actualizado: 105-001623-00 141225002 con fecha 2026-08-12
+Actualizado: 105-000824-00 141325010 con fecha 2026-04-22
+Actualizado: 105-000863-00 141325002 con fecha 2026-01-21
+Actualizado: 105-004597-00 141325006 con fecha 2026-03-12
+Actualizado: 105-008552-00 2025010111 con fecha 2026-02-18
+Actualizado: 105-008549-00 2025020111 con fecha 2026-03-15
+Actualizado: 105-000847-00 142825001 con fecha 2027-01-06
+Actualizado: 105-000886-00 142825001 con fecha 2027-01-06
+Actualizado: 105-001622-00 142825002 con fecha 2027-02-27
+Actualizado: 105-000817-00 140425009 con fecha 2026-10-08
+Actualizado: 105-000856-00 140425002 con fecha 2026-08-06
+Actualizado: 105-004594-00 140425002 con fecha 2026-08-06
+Actualizado: 105-004594-00 140425004 con fecha 2026-08-06
+
+Guardando cambios...
+
+Actualizando celdas en columna L...
+Actualizando celda L11144
+Actualizando celda L12925
+Actualizando celda L13731
+Actualizando celda L13545
+Actualizando celda L13520
+Actualizando celda L12975
+Actualizando celda L13509
+Actualizando celda L13574
+Actualizando celda L12973
+Actualizando celda L13507
+Actualizando celda L13572
+Actualizando celda L12938
+Actualizando celda L13342
+Actualizando celda L13741
+Actualizando celda L13388
+Actualizando celda L13345
+Actualizando celda L13745
+Actualizando celda L13746
+Actualizando celda L13740
+Actualizando celda L13045
+Actualizando celda L13387
+Actualizando celda L13713
+Actualizando celda L13751
+Actualizando celda L13349
+Actualizando celda L13749
+Actualizando celda L13716
+Actualizando celda L13537
+Actualizando celda L13053
+Actualizando celda L13586
+Actualizando celda L13596
+Actualizando celda L13742
+Actualizando celda L13508
+Actualizando celda L13573
+Actualizando celda L12244
+Actualizando celda L13750
+Actualizando celda L13555
+Actualizando celda L13700
+Actualizando celda L12980
+Actualizando celda L13570
+Actualizando celda L13554
+Actualizando celda L13699
+Actualizando celda L13525
+Actualizando celda L13567
+Actualizando celda L13585
+Actualizando celda L13504
+Actualizando celda L13577
+Actualizando celda L12926
+Actualizando celda L13334
+Actualizando celda L13732
+Actualizando celda L13733
+Actualizando celda L13548
+Actualizando celda L13564
+Actualizando celda L13730
+Actualizando celda L13592
+Actualizando celda L13748
+Actualizando celda L13557
+Actualizando celda L13576
+Actualizando celda L13533
+Actualizando celda L13377
+Actualizando celda L13515
+Actualizando celda L13531
+Actualizando celda L13584
+Actualizando celda L13753
+Actualizando celda L13752
+Actualizando celda L13514
+Actualizando celda L13532
+Actualizando celda L13583
+Actualizando celda L13553
+Actualizando celda L13517
+Actualizando celda L13013
+Actualizando celda L13578
+Actualizando celda L13579
+Actualizando celda L13527
+Actualizando celda L12962
+Actualizando celda L13372
+Actualizando celda L13767
+Actualizando celda L13031
+Actualizando celda L13710
+Actualizando celda L13711
+Actualizando celda L13445
+Actualizando celda L13337
+Actualizando celda L13736
+Actualizando celda L13707
+Actualizando celda L13518
+Actualizando celda L13756
+Actualizando celda L13390
+Actualizando celda L13028
+Actualizando celda L13708
+Actualizando celda L13561
+Actualizando celda L13524
+Actualizando celda L13016
+Actualizando celda L13378
+Actualizando celda L13558
+Actualizando celda L13580
+Actualizando celda L13594
+Actualizando celda L13593
+Actualizando celda L13743
+Actualizando celda L13744
+Actualizando celda L13386
+Actualizando celda L13712
+Actualizando celda L12930
+Actualizando celda L13338
+Actualizando celda L13737
+Actualizando celda L13551
+Actualizando celda L13559
+Actualizando celda L13581
+Actualizando celda L13367
+Actualizando celda L13764
+Actualizando celda L13389
+Actualizando celda L13714
+Actualizando celda L13715
+Actualizando celda L13534
+Actualizando celda L13011
+Actualizando celda L13523
+Actualizando celda L13535
+Actualizando celda L13505
+Actualizando celda L12950
+Actualizando celda L13354
+Actualizando celda L13754
+Actualizando celda L13542
+Actualizando celda L12172
+Actualizando celda L13018
+Actualizando celda L13511
+Actualizando celda L13694
+Actualizando celda L13575
+Actualizando celda L13552
+Actualizando celda L12180
+Actualizando celda L12630
+Actualizando celda L12991
+Actualizando celda L13380
+Actualizando celda L13516
+Actualizando celda L12994
+Actualizando celda L13582
+Actualizando celda L13738
+Actualizando celda L13562
+Actualizando celda L13441
+Actualizando celda L13442
+Actualizando celda L13595
+Actualizando celda L13726
+Actualizando celda L13382
+Actualizando celda L13701
+Actualizando celda L13702
+Actualizando celda L13550
+Actualizando celda L13008
+Actualizando celda L13566
+Actualizando celda L13597
+Actualizando celda L13759
+Actualizando celda L12959
+Actualizando celda L13762
+Actualizando celda L13761
+Actualizando celda L13760
+Actualizando celda L13739
+Actualizando celda L13709
+Actualizando celda L13758
+Actualizando celda L13004
+Actualizando celda L13373
+Actualizando celda L13549
+Actualizando celda L13006
+Actualizando celda L13565
+Actualizando celda L13536
+Actualizando celda L13538
+Actualizando celda L13722
+Actualizando celda L12230
+Actualizando celda L13735
+Actualizando celda L13706
+Actualizando celda L12923
+Actualizando celda L13728
+Actualizando celda L12923
+Actualizando celda L13728
+Actualizando celda L11142
+Actualizando celda L11258
+Actualizando celda L12226
+Actualizando celda L13729
+Actualizando celda L13522
+Actualizando celda L13543
+Actualizando celda L13512
+Actualizando celda L13519
+Actualizando celda L13544
+Actualizando celda L13556
+Actualizando celda L12993
+Actualizando celda L13563
+Actualizando celda L13747
+Actualizando celda L13717
+Actualizando celda L13587
+Actualizando celda L13539
+Actualizando celda L13540
+Actualizando celda L13546
+Actualizando celda L13695
+Actualizando celda L13696
+Actualizando celda L13521
+Actualizando celda L13571
+Actualizando celda L13698
+Actualizando celda L12999
+Actualizando celda L13569
+Actualizando celda L13547
+Actualizando celda L13376
+Actualizando celda L13513
+Actualizando celda L13530
+Actualizando celda L13757
+Actualizando celda L13755
+Actualizando celda L13506
+Actualizando celda L13560
+Actualizando celda L13697
+Actualizando celda L13568
+Actualizando celda L13541
+Actualizando celda L13510
+Actualizando celda L12984
+Actualizando celda L13528
+Actualizando celda L13529
+
+Proceso completado:
+- 153 registros actualizados
+- Archivo actualizado guardado como: SEGUIMIENTO_ALMACEN_actualizado_20250606_104423.xlsx
+- El archivo original SEGUIMIENTO_ALMACEN.xlsx no ha sido modificado
+
+Proceso completado exitosamente!

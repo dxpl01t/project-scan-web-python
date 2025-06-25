@@ -1,0 +1,8 @@
+pandas>=1.5.3
+selenium>=4.9.0
+webdriver-manager>=3.8.6
+python-dotenv>=1.0.0
+PyPDF2>=3.0.0
+openpyxl>=3.1.2  # Needed for Excel support in pandas
+pywin32>=306  # For Excel automation
+requests>=2.31.0
